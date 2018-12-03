@@ -15,4 +15,4 @@
 
 ## 扩展篇
 1. [深度剖析0.1 +0.2===0.30000000000000004的原因](https://juejin.im/post/5c023084f265da613e21fb54)
-2  [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
+2. [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
