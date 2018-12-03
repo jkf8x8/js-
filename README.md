@@ -9,6 +9,7 @@
 ## 优化篇
 1. [深度讲解：web前端性能优化](https://juejin.im/post/5c011e0c5188252ea66afdfa)
 2. [跨域不完全探究](https://juejin.im/post/5c03c26d51882556782cc007)
+3. [项目中可以怎么优化图片](https://juejin.im/post/5bfac3bd51882566936071e1)
 
 ## 框架篇
 1. [Vue 源码(一)：响应式原理](https://juejin.im/post/5c03a7446fb9a049e65ffe99)
