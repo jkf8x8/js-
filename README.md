@@ -1,4 +1,4 @@
-# js-理解
+# 前端工程师需要具备的...
 
 ## 基础篇
 1. [正则表达式-基础](https://yanhaijing.com/javascript/2017/08/06/regexp-syntax/)
