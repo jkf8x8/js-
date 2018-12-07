@@ -1,6 +1,7 @@
 # js-理解
 
 ## 基础篇
+1. [正则表达式](https://yanhaijing.com/javascript/2017/08/06/regexp-syntax/)
 
 ## 深入篇
 1. [理解DOM到底是什么](https://juejin.im/post/5c01e2b051882518eb1f785a)
@@ -17,3 +18,4 @@
 ## 扩展篇
 1. [深度剖析0.1 +0.2===0.30000000000000004的原因](https://juejin.im/post/5c023084f265da613e21fb54)
 2. [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
+3. [2018年如何写一个现代javascript库](https://yanhaijing.com/javascript/2018/08/17/2020-js-lib/)
