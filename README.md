@@ -1,7 +1,9 @@
 # js-理解
 
 ## 基础篇
-1. [正则表达式](https://yanhaijing.com/javascript/2017/08/06/regexp-syntax/)
+1. [正则表达式-基础](https://yanhaijing.com/javascript/2017/08/06/regexp-syntax/)
+2. [正则表达式-实践](https://yanhaijing.com/javascript/2017/08/26/regexp-practice/)
+3. [正则表达式-原理](https://yanhaijing.com/javascript/2017/11/29/regexp-principle/)
 
 ## 深入篇
 1. [理解DOM到底是什么](https://juejin.im/post/5c01e2b051882518eb1f785a)
