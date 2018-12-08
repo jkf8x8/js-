@@ -7,6 +7,7 @@
 
 ## 深入篇
 1. [理解DOM到底是什么](https://juejin.im/post/5c01e2b051882518eb1f785a)
+2. [JavaScript 运行机制详解：再谈Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
 2. [最详尽的 JS 原型与原型链终极详解](https://www.jianshu.com/p/dee9f8b14771)
 3. [深入理解JS中声明提升、作用域（链）和`this`关键字](https://github.com/creeperyang/blog/issues/16)
 4. [执行上下文和执行栈](https://github.com/yued-fe/y-translation/blob/master/en/understanding-execution-context-and-execution-stack-in-javascript.md)
