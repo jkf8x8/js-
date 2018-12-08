@@ -1,7 +1,7 @@
 # 前端工程师需要具备的...
 
 ## 基础篇
-1. [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/#introduction)
+1. [JavaScript 标准参考教程](https://wangdoc.com/javascript)
 1. [正则表达式-基础](https://yanhaijing.com/javascript/2017/08/06/regexp-syntax/)
 2. [正则表达式-实践](https://yanhaijing.com/javascript/2017/08/26/regexp-practice/)
 3. [正则表达式-原理](https://yanhaijing.com/javascript/2017/11/29/regexp-principle/)
