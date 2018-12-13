@@ -21,6 +21,7 @@
 ## 框架篇
 1. [Vue 源码(一)：响应式原理](https://juejin.im/post/5c03a7446fb9a049e65ffe99)
 1. [Vue技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
+1. [Vue的生命周期（钩子函数）](http://jspang.com/post/vue2-2.html#toc-cd7)
 
 ## 扩展篇
 1. [深度剖析0.1 +0.2===0.30000000000000004的原因](https://juejin.im/post/5c023084f265da613e21fb54)
