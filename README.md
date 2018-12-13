@@ -27,3 +27,6 @@
 1. [深度剖析0.1 +0.2===0.30000000000000004的原因](https://juejin.im/post/5c023084f265da613e21fb54)
 1. [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
 1. [2018年如何写一个现代javascript库](https://yanhaijing.com/javascript/2018/08/17/2020-js-lib/)
+
+## 面试篇
+1. [26个精选的JavaScript面试问题](https://juejin.im/post/5bd95d22e51d45685f442f73)
