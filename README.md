@@ -2,6 +2,7 @@
 
 ## 基础篇
 1. [JavaScript 标准参考教程](https://wangdoc.com/javascript)
+1. [学习资源 or 大前端导航，持续更新](https://github.com/webproblem/learning-article)
 1. [正则表达式-基础](https://yanhaijing.com/javascript/2017/08/06/regexp-syntax/)
 1. [正则表达式-实践](https://yanhaijing.com/javascript/2017/08/26/regexp-practice/)
 1. [正则表达式-原理](https://yanhaijing.com/javascript/2017/11/29/regexp-principle/)
