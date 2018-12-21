@@ -6,8 +6,8 @@
 1. [正则表达式-基础](https://yanhaijing.com/javascript/2017/08/06/regexp-syntax/)
 1. [正则表达式-实践](https://yanhaijing.com/javascript/2017/08/26/regexp-practice/)
 1. [正则表达式-原理](https://yanhaijing.com/javascript/2017/11/29/regexp-principle/)
-1  [浏览器渲染原理](https://cloud.tencent.com/developer/article/1004695)
-1  [前端模块化详解](https://juejin.im/post/5c17ad756fb9a049ff4e0a62)
+1. [浏览器渲染原理](https://cloud.tencent.com/developer/article/1004695)
+1. [前端模块化详解](https://juejin.im/post/5c17ad756fb9a049ff4e0a62)
 
 ## 深入篇
 1. [理解DOM到底是什么](https://juejin.im/post/5c01e2b051882518eb1f785a)
