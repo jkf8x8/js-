@@ -15,7 +15,7 @@
 1. [最详尽的 JS 原型与原型链终极详解](https://www.jianshu.com/p/dee9f8b14771)
 1. [深入理解JS中声明提升、作用域（链）和`this`关键字](https://github.com/creeperyang/blog/issues/16)
 1. [执行上下文和执行栈](https://github.com/yued-fe/y-translation/blob/master/en/understanding-execution-context-and-execution-stack-in-javascript.md)
-1. 
+1. [深入理解JavaScript系列（25）：设计模式之单例模式](http://www.cnblogs.com/TomXu/archive/2012/02/20/2352817.html)
 ## 优化篇
 1. [深度讲解：web前端性能优化](https://juejin.im/post/5c011e0c5188252ea66afdfa)
 1. [跨域不完全探究](https://juejin.im/post/5c03c26d51882556782cc007)
