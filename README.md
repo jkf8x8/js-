@@ -7,6 +7,7 @@
 1. [正则表达式-实践](https://yanhaijing.com/javascript/2017/08/26/regexp-practice/)
 1. [正则表达式-原理](https://yanhaijing.com/javascript/2017/11/29/regexp-principle/)
 1. [浏览器渲染原理](https://cloud.tencent.com/developer/article/1004695)
+1. [浏览器重绘(repaint)重排(reflow)与优化 浏览器机制](https://juejin.im/post/5c15f797f265da61141c7f86)
 1. [前端模块化详解](https://juejin.im/post/5c17ad756fb9a049ff4e0a62)
 
 ## 深入篇
